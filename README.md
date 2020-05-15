@@ -1,5 +1,7 @@
 # auto-gitignore
 
+![](gitignore_demo.gif)
+
 Create **gitignore** files right from your command line. Choose your templates faster than ever with **autocompletion**.
 
 ## Installation
