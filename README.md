@@ -22,7 +22,7 @@ $ gitignore
 If you want to test the app before installation, the following command will run the app in a temporary environment:
 
 ```py
-$ pipx run auto-gitignore
+$ pipx run --spec auto-gitignore gitignore
 ```
 If a `.gitignore` file already exists in your current directory you can choose to append or overwrite.
 
