@@ -19,6 +19,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/Mux-Mastermann/gitignore",
     author="Jan Knorr",
+    license='MIT',
     author_email="jan.hhc+dev@gmail.com",
     py_modules=["gitignore"],
     entry_points={
